@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+    <metadata>
+        <id>MediaElch</id>
+        <version>2.4.2</version>
+        <title>MediaElch</title>
+        <authors>k.vibes</authors>
+        <owners>sumo300</owners>
+        <licenseUrl>https://github.com/Komet/MediaElch/blob/master/COPYING</licenseUrl>
+        <projectUrl>http://www.kvibes.de/en/mediaelch/</projectUrl>
+        <iconUrl>http://www.kvibes.de/wp-content/uploads/2015/01/icon_256x2561.png</iconUrl>
+        <docsUrl>https://github.com/sumo300/chocolatey-mediaelch</docsUrl>
+        <bugTrackerUrl>https://github.com/sumo300/chocolatey-mediaelch/issues</bugTrackerUrl>
+        <projectSourceUrl>https://github.com/sumo300/chocolatey-mediaelch</projectSourceUrl>
+        <requireLicenseAcceptance>true</requireLicenseAcceptance>
+        <description>Manager all your movies, tv shows and concerts. Import new files and rename them automatically rename.  Scrape The Movie DB, The TV DB, IMDB, Cinefacts, Videobuster and OFDb.
+Logos, ClearArts and more are scraped from fanart.tv.  MediaElch creates nfo files for use with Kodi. Because of extensive configuration options other media centers are supported as well.  MediaElch is open source and is developed continuously. Feature suggestions can be made in our community.</description>
+        <summary>Your media manager for movies, tv shows, concerts and music</summary>
+        <releaseNotes>http://www.kvibes.de/en/mediaelch/download/</releaseNotes>
+        <language>en-US</language>
+        <tags>media manager movies tv concerts music IMDB scraper Kodi nfo</tags>
+    </metadata>
+    <files>
+        <file src="tools\chocolateyInstall.ps1" target="tools\chocolateyInstall.ps1" />
+    </files>
+</package>
