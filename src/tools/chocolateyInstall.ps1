@@ -2,8 +2,8 @@ $ErrorActionPreference = 'Stop'
 
 $packageArgs = @{
   packageName    = 'MediaElch'
-  url            = 'http://www.kvibes.de/releases/mediaelch/2.4.2/MediaElch-2.4.2-1.zip'
-  checksum       = '754ABB2B41BE123DB973AE0FD6A3573102DE345E03799E7905C44AE49B984C4D'
+  url            = 'https://github.com/Komet/MediaElch/releases/download/v2.6.0/MediaElch_2.6.0_win.zip'
+  checksum       = '739C3B2B40FCCC55475060F66B893BBA549A6EBD5102743091D5462AB5E038CB'
   checksumType   = 'sha256'
   unzipLocation  = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
 }
