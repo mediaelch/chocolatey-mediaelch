@@ -8,7 +8,7 @@
         <owners>sumo300</owners>
         <licenseUrl>https://github.com/Komet/MediaElch/blob/master/COPYING</licenseUrl>
         <projectUrl>http://www.kvibes.de/en/mediaelch/</projectUrl>
-        <iconUrl>https://www.kvibes.de/img/mediaelch/icon.png</iconUrl>
+        <iconUrl>https://raw.githack.com/Komet/MediaElch/master/data/img/MediaElch@2x.png</iconUrl>
         <docsUrl>https://mediaelch.github.io/mediaelch-doc/index.html</docsUrl>
         <bugTrackerUrl>https://github.com/Komet/MediaElch/issues</bugTrackerUrl>
         <packageSourceUrl>https://github.com/mediaelch/chocolatey-mediaelch</packageSourceUrl>
