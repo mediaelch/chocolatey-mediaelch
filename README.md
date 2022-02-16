@@ -1,3 +1,9 @@
+## IMPORTANT - THIS REPO TO BE DEPRECATED SOON!
+
+A new repository has been created that will *automatically* release the Chocolatey package for MediaElch and publish it to chocolatey.org!  Once a version newer than **2.8.14** is released, this repository will be obsolete.  If there are any necessary changes (aside from releasing a new version of MediaElch), please use the following repository for pull requests or issues.
+
+https://github.com/sumo300/chocolatey-packages-au
+
 ## MediaElch Chocolatey Package
 
 This is the code I use to publish the MediaElch package to Chocolatey. 
